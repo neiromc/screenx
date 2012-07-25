@@ -1,0 +1,43 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #000;
+	color: #aaa;
+}
+
+
+#footer {
+        height: 20px;
+        background-color: #000;
+        color: #444;
+        position: absolute;
+        bottom: 0px;
+        right: 4px;
+}
+
+#footer h1 {
+	font-family: Tahoma, Verdana, Sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+}
+
+
+#_error_div {
+	height: 20px;
+	font-family: Tahoma, Verdana, Sans-serif;
+	font-size: 12px;
+	color: #444;
+}
+
+#_iframe_main {
+	height: 900px;
+	width: 100%;
+	opacity: 1;
+}
+
+#_iframe_login {
+	display: block;
+}
