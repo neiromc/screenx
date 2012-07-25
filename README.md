@@ -27,11 +27,11 @@ Add user to zabbix:
 
 Go to screenX/html/includes/zabbix_auth.inc.php and change:
 
-//---------------- AUTH CONFIGURATION ---------------- BEGIN
-_zurl = "10.33.101.186"; 	<--- PATH to Zabbix server, IP address or hostname. Don't use http or other symbols before
-_zusername = "ScreenX";  	<--- Username in zabbix for ScreenX
-_zpasswd= "ScreenX";		<--- Password for ScreenX
-//---------------- AUTH CONFIGURATION ---------------- ENDOF
+     //---------------- AUTH CONFIGURATION ---------------- BEGIN
+     _zurl = "10.33.101.186"; 	<--- PATH to Zabbix server, IP address or hostname. Don't use http or other symbols before
+     _zusername = "ScreenX";  	<--- Username in zabbix for ScreenX
+     _zpasswd= "ScreenX";		<--- Password for ScreenX
+     //---------------- AUTH CONFIGURATION ---------------- ENDOF
 
 
 Save, and navigate in browser to http://hostname_or_ipaddress/screenx/html
