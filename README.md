@@ -5,18 +5,18 @@ ScreenX readme file
 
 Version 0.1 (beta)
 
-This is the beta version.
-License GPLv2
+This is the beta version.<br>
+License GPLv2<br>
 Open Source
 
-Created by Yury Boykov (aka Neiro) in 20120626, Russia, Moscow
+Created by Yury Boykov (aka Neiro) in 20120626, Russia, Moscow<br>
+email: neiromc@gmail.com<br>
 
-DEPENDS: Apache or other web-server, PHP
+''DEPENDS: Apache or other web-server, PHP
 
-For Development use browser in private mode, without saving cache.
+HINT: For Development use browser in private mode, without saving cache.
 If you didn't see graphics from Zabbix with error somthing that "..corrupted image.." do login to the zabbix as corrected user.
 
-email: neiromc@gmail.com
 
 INSTALLATION
 ---------------
