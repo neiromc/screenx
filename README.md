@@ -29,12 +29,11 @@ INSTALLATION
 
 3. Go to screenX/html/includes/zabbix_auth.inc.php and change:
 
-      //---------------- AUTH CONFIGURATION ---------------- BEGIN
-      _zurl = "10.33.101.186"; 	<--- PATH to Zabbix server, IP address or hostname. Don't use http or other symbols before
-      _zusername = "ScreenX";  	<--- Username in zabbix for ScreenX
-      _zpasswd= "ScreenX";		<--- Password for ScreenX
-      //---------------- AUTH CONFIGURATION ---------------- ENDOF
-
+      //---------------- AUTH CONFIGURATION ---------------- BEGIN<br />
+      _zurl = "10.33.101.186"; 	<--- PATH to Zabbix server, IP address or hostname. Don't use http or other symbols before<br />
+      _zusername = "ScreenX";  	<--- Username in zabbix for ScreenX<br />
+      _zpasswd= "ScreenX";		<--- Password for ScreenX<br />
+      //---------------- AUTH CONFIGURATION ---------------- ENDOF<br />
 
 4. Save, and navigate in browser to http://hostname_or_ipaddress/screenx/html
 
